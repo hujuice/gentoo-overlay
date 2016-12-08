@@ -35,7 +35,7 @@
     <flag name="convert">Enable support for the convert plugin which makes it
       possible to transcode files</flag>
     <flag name="discogs">Enable support for the discogs API plugin</flag>
-	<flag name="embyupdate">Add support for dev-python/requests, to enable the
+    <flag name="embyupdate">Add support for dev-python/requests, to enable the
 	  EmbyUpdate plugin</flag>
     <flag name="lastgenre">Enable support for importing music genres from
       last.fm tags</flag>
